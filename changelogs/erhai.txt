@@ -1,0 +1,7 @@
+Evolution X 12.4 (Android 17) for OnePlus Pad 3 (erhai) - 2026-11-22
+
+- Rebased on Evolution X 17 (cnb) with the LineageOS 24.0 erhai device tree
+- Kernel with KernelSU-Next and SUSFS v2.4.0 built in
+- Firmware OPD2415_16.0.10.600, same as 11.12, no anti-rollback change
+- Same signing key as 11.12 and 11.13, so those can upgrade without a wipe (tested from 11.13)
+- Future updates arrive through Settings, System, System update
