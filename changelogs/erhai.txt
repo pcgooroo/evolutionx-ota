@@ -1,3 +1,7 @@
+Evolution X 12.4 (Android 17) for OnePlus Pad 3 (erhai) - 2026-11-24
+
+- Settings > About now shows the Evolution X version again, without adding back the ROM version properties that root detection apps look for
+
 Evolution X 12.4 (Android 17) for OnePlus Pad 3 (erhai) - 2026-11-22
 
 - Rebased on Evolution X 17 (cnb) with the LineageOS 24.0 erhai device tree

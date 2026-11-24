@@ -1,18 +1,18 @@
 {
   "response": [
     {
-      "download": "https://sourceforge.net/projects/evolutionx-erhai-unofficial/files/EvolutionX-17.0-20261122-erhai-12.4-Unofficial.zip/download",
-      "filename": "EvolutionX-17.0-20261122-erhai-12.4-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/evolutionx-erhai-unofficial/files/EvolutionX-17.0-20261124-erhai-12.4-Unofficial.zip/download",
+      "filename": "EvolutionX-17.0-20261124-erhai-12.4-Unofficial.zip",
       "firmware": "OPD2415_16.0.10.600",
       "forum": "https://sourceforge.net/projects/evolutionx-erhai-unofficial/",
       "maintainer": "pcgooroo",
       "os_patch_level": "2026-11-01",
       "os_sdk_level": 37,
-      "ota_property_files": "payload_metadata.bin:5054:192795,payload.bin:5054:3370650645,payload_properties.txt:3370655757:156,apex_info.pb:2411:1500,care_map.pb:3958:1049,metadata:69:709,metadata.pb:846:1517",
+      "ota_property_files": "payload_metadata.bin:5054:192795,payload.bin:5054:3370652434,payload_properties.txt:3370657546:156,apex_info.pb:2411:1500,care_map.pb:3958:1049,metadata:69:709,metadata.pb:846:1517",
       "paypal": "",
-      "sha256": "721c56cdc0352d32e0a1611ee061c136e76f63369f6f5ecba078891de4034261",
-      "size": 3370659134,
-      "timestamp": 1795386850,
+      "sha256": "0f9bb34a01a8873bebe34c80e0a6a80ec4670faa0c97cfb1d94696c26e7c049e",
+      "size": 3370660923,
+      "timestamp": 1795538243,
       "version": "12.4"
     }
   ]
