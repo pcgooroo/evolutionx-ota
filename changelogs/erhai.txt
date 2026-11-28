@@ -2,6 +2,8 @@ Evolution X 12.4 (Android 17) for OnePlus Pad 3 (erhai) - 2026-11-27
 
 - Desktop mode enabled: open any app as a resizable window from its menu in Recents, or turn it on in Developer options
 - With a monitor plugged in over USB-C, you get a separate desktop on it instead of a mirror of the tablet screen (the cable or adapter must support DisplayPort video; the USB-A cable from the box doesn't)
+- Live wallpapers (like the Pixel Earth collection) show as plain grey on the monitor; static wallpapers and solid colors work on both screens
+- Known issue: the monitor sometimes stays blank after a reboot or after switching mirror mode; unplug the cable and plug it back in
 
 Evolution X 12.4 (Android 17) for OnePlus Pad 3 (erhai) - 2026-11-24
 
